@@ -10,7 +10,7 @@ Weekly demostraction & challenges used by University of California--Berkeley Boo
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-[![HTML CSS Git Challenge: Code Refactor][[<img src="./assets/images/html-css-git-homework-demo.png" />]
+* [TITLE] HTML CSS Git Challenge: Code Refactor [<img src="./assets/images/html-css-git-homework-demo.png" />]
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
