@@ -3,8 +3,6 @@
 <!-- GETTING STARTED -->
 ## Purpose
 
-<image src="./images/BCTlogo.png"/>
-
 Hello world, this is a weekly demonstration & challenge used by the University of California--Berkeley Bootcamp. Additionally, it is a preparation for the workflow & experience as a professional full-stack web developer.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
