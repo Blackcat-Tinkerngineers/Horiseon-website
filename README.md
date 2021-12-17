@@ -3,14 +3,14 @@
 <!-- GETTING STARTED -->
 ## Purpose
 
-Weekly demostraction & challenges used by University of California--Berkeley Bootcamp. This is preperation for the workflow & experience as a professional full-stack web developer.
+Hello world, this is a weekly demonstration & challenge used by the University of California--Berkeley Bootcamp. Additionally, it is a preparation for the workflow & experience as a professional full-stack web developer.
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-* [TITLE] HTML CSS Git Challenge: Code Refactor [<img src="./assets/images/html-css-git-homework-demo.png" />]
+* [TITLE] HTML CSS Git Challenge: Code Refactor <img src="./assets/images/html-css-git-homework-demo.png" />
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
